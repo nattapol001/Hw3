@@ -1,0 +1,15 @@
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\bin\Debug\net7.0\Hw3.exe
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\bin\Debug\net7.0\Hw3.deps.json
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\bin\Debug\net7.0\Hw3.runtimeconfig.json
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\bin\Debug\net7.0\Hw3.dll
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\bin\Debug\net7.0\Hw3.pdb
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\obj\Debug\net7.0\Hw3.csproj.AssemblyReference.cache
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\obj\Debug\net7.0\Hw3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\obj\Debug\net7.0\Hw3.AssemblyInfoInputs.cache
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\obj\Debug\net7.0\Hw3.AssemblyInfo.cs
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\obj\Debug\net7.0\Hw3.csproj.CoreCompileInputs.cache
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\obj\Debug\net7.0\Hw3.dll
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\obj\Debug\net7.0\refint\Hw3.dll
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\obj\Debug\net7.0\Hw3.pdb
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\obj\Debug\net7.0\Hw3.genruntimeconfig.cache
+C:\Users\66972\OneDrive\เดสก์ท็อป\Hw3\obj\Debug\net7.0\ref\Hw3.dll
